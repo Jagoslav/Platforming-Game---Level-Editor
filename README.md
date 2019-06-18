@@ -2,8 +2,8 @@
 > A rough sketch of what was supposed to be an RPGMaker-like map editor for a platformer game i was asked to make as a grade project
 
 ## Screenshots
-![Example screenshot](./img/screenshot_editor.png)
-![Example screenshot](./img/screenshot_test.png)
+![Example screenshot](screenshot_editor.png)
+![Example screenshot](screenshot_test.png)
 
 ## TODO
 * Proper pixel-perfect collision detection
